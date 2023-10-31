@@ -14,5 +14,4 @@
 	url = https://github.com/PointCloudLibrary/pcl.git
 [submodule "src/MAV_apps"]
 	path = src/MAV_apps
-	url = https://github.com/MAVBench/MAV_apps.git
-	branch = refactor
+	url = https://github.com/SophiaLi06/MAV_apps_windows.git
